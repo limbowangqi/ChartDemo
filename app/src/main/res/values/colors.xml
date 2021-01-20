@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_333333">#333333</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_line">#cccccc</color>
+
+    <!-- chart 相关-->
+    <color name="color_white">#fff</color>
+    <color name="color_f0f0f0">#f0f0f0</color>
+
+    <color name="color_2f74ea">#2f74ea</color>
+    <color name="color_ffcc00">#ffcc00</color>
+    <color name="color_dfecfe">#dfecfe</color>
+    <color name="color_76819f">#76819f</color>
+
+    <color name="color_1dbf69">#1dbf69</color>
+    <color name="color_ff4c4f">#ff4c4f</color>
+
+
+</resources>
